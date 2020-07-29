@@ -4,6 +4,7 @@
 - 🐳 I’m currently learning Golang\k8s. 😎
 - 🤔 I'm thinking about having a . 😎
 - 💬 Ask me about `debug`. 😎
-- 📫 How to reach me: [wechat](http://xiaorui.cc)
+- 📫 How to reach me: [email](liling@apache.org)
 
-[![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=lilien1010)](https://github.com/lilien1010)
+[![Liling's github stats](https://github-readme-stats.vercel.app/api?username=lilien1010)](https://github.com/lilien1010)
+wecaht [![](test.png)]
