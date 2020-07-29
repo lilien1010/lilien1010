@@ -7,4 +7,4 @@
 - 📫 How to reach me: [email](liling@apache.org)
 
 [![Liling's github stats](https://github-readme-stats.vercel.app/api?username=lilien1010)](https://github.com/lilien1010)
-wecaht [![](https://raw.githubusercontent.com/lilien1010/lilien1010/master/test.png)]
+[![](https://raw.githubusercontent.com/lilien1010/lilien1010/master/wechat.jpg)]
