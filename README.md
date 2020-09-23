@@ -1,6 +1,5 @@
 ### Hi Dude
 
-- 🌈 I’m currently working at Shopify. 😎
 - 🐳 I’m currently learning Golang\K8S\OpenResty\APISIX\Ruby. 😎
 - 🤔 I'm thinking changing the world more or less. 😎
 - 💬 Welcomed to ask me about `debug`. 😎
