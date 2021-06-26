@@ -13,7 +13,7 @@ jobs:
       - name: lowlighter/metrics 😁
         uses: lowlighter/metrics@latest
         with:
-          user: thequackyduck
+          user: lilien1010
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           plugin_languages: yes
