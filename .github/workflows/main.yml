@@ -1,32 +1,38 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - name: lowlighter/metrics 😁
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          user: lilien1010
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: lilien1010
           template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_colors: "0:orange, javascript:#ff0000, ..."  
-          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." 
-          plugin_languages_details: bytes-size, percentage              
-          plugin_la nguages_threshold: 2%                             
-          plugin_languages_limit: 20                               
-          plugin_languages_indepth: no                                  
-          plugin_languages_recent_load: 500                             
-          plugin_languages_recent_days: 7  
-          plugin_activity: yes
-          plugin_activity_limit: 8                                 
-          plugin_activity_days: 14                                      # haha                      e
-          plugin_activity_filter: push, issue, pr, ref/create, ref/delete, release, review, comment, wiki, fork, public, member 
-          commits_authoring: lowlighter@users.noreply.github.com     
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent.days: 14
+          plugin_languages_recent.load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
