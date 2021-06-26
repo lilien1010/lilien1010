@@ -1,7 +1,6 @@
 ### Hi Dude
 
-<p align="center"><img src="https://gpvc.arturio.dev/lilien1010"></p>
-<p align="center">(reset)</p>
+<p align="center"><img src="https://gpvc.arturio.dev/lilien1010"></p> 
 <p align="center"><img src="https://github.com/lilien1010/lilien1010/blob/master/github-metrics.svg" alt="GitHub Metrics"/>
   
 - 🐳 I’m currently learning Golang\K8S\OpenResty\APISIX\Ruby. 😎
