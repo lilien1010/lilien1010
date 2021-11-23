@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1106" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1104" class="">
     <defs>
         <style/>
     </defs>
@@ -1451,7 +1451,7 @@
                 <div class="row fill-width">
                     <section>
                         <div class="introduction">
-            Engineer@Shopify,PMC@Apache APISIX,Member@KubeSphere,OpenSource Contributor. Lua, Golang, Openresty, K8S, React...。
+            Engineer@Shopify,PMC@Apache APISIX,Member@KubeSphere,OpenSource Contributor. Lua, Golang, Openresty, K8S, React...
 Individual SaaS Entrepreneur
           </div>
                     </section>
@@ -3692,7 +3692,7 @@ Individual SaaS Entrepreneur
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Nov 2021, 12:30:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 23 Nov 2021, 13:20:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
