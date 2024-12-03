@@ -244,7 +244,7 @@ Build Micro&amp;B2B SaaS in commerce World</div>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="177.63877679376932" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="177.63877679376932" y="0" width="126.06066633406974" height="8" fill="#000080"/>
                     <rect mask="url(#languages-bar)" x="303.69944312783906" y="0" width="61.681953192720975" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="365.38139632056004" y="0" width="29.205040537298846" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="365.38139632056004" y="0" width="29.205040537298846" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="394.58643685785887" y="0" width="26.125542769577912" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="420.7119796274368" y="0" width="21.604745535123126" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="442.3167251625599" y="0" width="11.862107429533987" height="8" fill="#4F5D95"/>
@@ -271,7 +271,7 @@ Build Micro&amp;B2B SaaS in commerce World</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2373,7 +2373,7 @@ Build Micro&amp;B2B SaaS in commerce World</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 20:12:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 21:13:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
