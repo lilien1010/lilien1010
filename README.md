@@ -10,7 +10,7 @@
 
 [![Liling's github stats](https://github-readme-stats.vercel.app/api?username=lilien1010)](https://github.com/lilien1010)
 
-[![Wechat](https://raw.githubusercontent.com/lilien1010/lilien1010/master/wechat.jpg)]
+![Wechat](https://raw.githubusercontent.com/lilien1010/lilien1010/master/wechat.jpg)
 
-[![Wechat](https://raw.githubusercontent.com/lilien1010/lilien1010/master/shopify-development-fundamentals-verified-skill-bad.png)]
+![Wechat](https://raw.githubusercontent.com/lilien1010/lilien1010/master/shopify-development-fundamentals-verified-skill-bad.png)
 
