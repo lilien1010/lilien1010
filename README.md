@@ -12,5 +12,7 @@
 
 ![Wechat](https://raw.githubusercontent.com/lilien1010/lilien1010/master/wechat.jpg)
 
-![Wechat](https://raw.githubusercontent.com/lilien1010/lilien1010/master/shopify-development-fundamentals-verified-skill-bad.png)
+![shopify-development-fundamentals-verified-skill-bad.png](https://raw.githubusercontent.com/lilien1010/lilien1010/master/shopify-development-fundamentals-verified-skill-bad.png)
+![challenger-fundamentals-core-sales-skills.png](https://raw.githubusercontent.com/lilien1010/lilien1010/master/challenger-fundamentals-core-sales-skills.png)
+
 
